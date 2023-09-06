@@ -12,3 +12,8 @@
 - [x] 배포(deploy)
 - [] UI 제작 (styled-components 활용)
 - [] Helmet 설정
+
+# 작업후 재 배포시
+
+1.github에 push 후
+2.npm run deploy 실행
